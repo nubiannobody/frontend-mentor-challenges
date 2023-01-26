@@ -4,15 +4,15 @@
     margin-top: 50px;
     padding: 0 30px;
 }
-.SEDANS {
+.sedans {
     padding: 30px;
     background-color: hsl(31, 77%, 52%);
     }
-.SUVs {
+.suvs {
     padding: 30px;
     background-color: hsl(184, 100%, 22%);
 }
-.LUXURY {
+.luxury {
     padding: 30px;
     background-color: hsl(179, 100%, 13%);
 }
