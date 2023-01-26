@@ -6,23 +6,19 @@
 .sedans {
     padding: 30px;
     background-color: hsl(31, 77%, 52%);
-    text-align: center;
     }
 .suvs {
     padding: 30px;
     background-color: hsl(184, 100%, 22%);
-    text-align: center;
 }
 .luxury {
     padding: 30px;
     background-color: hsl(179, 100%, 13%);
-    text-align: center;
 }
 .sedan-button {
     border-radius: 20px;
     background-color: hsl(0, 0%, 95%);
     color:  hsl(31, 77%, 52%);;
-    text-align: center;
 }
 .suv-button {
     border-radius: 20px;
@@ -34,7 +30,6 @@
     border-radius: 20px;
     background-color: hsl(0, 0%, 95%);
     color: hsl(179, 100%, 13%);
-    text-align: center;
 }
 p {
     color: hsla(0, 0%, 100%, 0.75);
@@ -49,4 +44,8 @@ h1 {
     border-radius: 20px;
     font-size: 20px;
     border: none;
+}
+
+img {
+    float: left;
 }
