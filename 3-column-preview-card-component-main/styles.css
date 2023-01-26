@@ -1,6 +1,7 @@
 .container {
     display: flex;
     margin-top: 50px;
+    padding: 0 30px;
 }
 .sedans {
     padding: 30px;
