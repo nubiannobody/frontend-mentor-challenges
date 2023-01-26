@@ -33,10 +33,11 @@
 }
 p {
     color: hsla(0, 0%, 100%, 0.75);
+    margin-bottom: 30px;
 }
+
 h1 {
     color: hsl(0, 0%, 95%);
-    margin-top: 20px;
 }
 
 .paddy {
@@ -46,6 +47,3 @@ h1 {
     border: none;
 }
 
-img {
-    float: left;
-}
