@@ -21,21 +21,18 @@
 }
 .sedan-button {
     border-radius: 20px;
-    font-size: 20px;
     background-color: hsl(0, 0%, 95%);
     color:  hsl(31, 77%, 52%);;
     text-align: center;
 }
 .suv-button {
     border-radius: 20px;
-    font-size: 20px;
     background-color: hsl(0, 0%, 95%);
     color: hsl(184, 100%, 22%);;
     text-align: center;
 }
 .luxury-button {
     border-radius: 20px;
-    font-size: 20px;
     background-color: hsl(0, 0%, 95%);
     color: hsl(179, 100%, 13%);
     text-align: center;
@@ -51,4 +48,7 @@ h1 {
 
 .paddy {
     padding: 10px 20px;
+    border-radius: 20px;
+    font-size: 20px;
+    border: none;
 }
