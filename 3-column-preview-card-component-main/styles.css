@@ -1,4 +1,5 @@
 .container {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     display: flex;
     margin-top: 50px;
     padding: 0 30px;
@@ -43,7 +44,6 @@ h1 {
 .paddy {
     padding: 10px 20px;
     border-radius: 20px;
-    font-size: 20px;
     border: none;
 }
 
