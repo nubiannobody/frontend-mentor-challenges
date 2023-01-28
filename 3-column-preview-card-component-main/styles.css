@@ -30,6 +30,7 @@
     background-color: hsl(0, 0%, 95%);
     color: hsl(184, 100%, 22%);;
     text-align: center;
+    border-radius: 10px;
 }
 .luxury-button {
     border-radius: 20px;
