@@ -19,6 +19,7 @@
 .luxury {
     padding: 30px;
     background-color: hsl(179, 100%, 13%);
+    border-radius: 10px;
 }
 .sedan-button {
     border-radius: 20px;
@@ -30,7 +31,6 @@
     background-color: hsl(0, 0%, 95%);
     color: hsl(184, 100%, 22%);;
     text-align: center;
-    border-radius: 10px;
 }
 .luxury-button {
     border-radius: 20px;
