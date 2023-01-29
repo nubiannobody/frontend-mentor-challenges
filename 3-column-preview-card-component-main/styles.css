@@ -9,6 +9,7 @@
 .sedans {
     padding: 30px;
     background-color: hsl(31, 77%, 52%);
+    border-top-left-radius: 10px;
     }
 .suvs {
     padding: 30px;
